@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(22, 190, 219);
+}
+.nav_content{
+    color: aqua;
+    font-size: medium;
+    font-size: 30px;
+
+}
+.mikesolos{
+    text-align: center;
+    font-size: 20px;
+}
+.hanksolos{
+    border: 3px solid rgb(15, 15, 15);
+    width: 400px;
+    color: rgb(10, 9, 9);
+    margin-top: 30px;
+    margin-left: 750px;
+    text-align: center;
+    display: inline-block;
+}
+
+div.relative{
+    width: 100px;
+    margin-bottom: auto;
+    border: 10ox solid;
+}
+
+
+
+
